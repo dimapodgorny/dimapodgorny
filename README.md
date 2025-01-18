@@ -1,1 +1,2 @@
-WIP
+## 🇳🇴:
+# IT elev på Kuben VGS
