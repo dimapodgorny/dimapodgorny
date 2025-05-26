@@ -14,7 +14,7 @@ class dimapodgorny:
             "lookingForWork" : [True, "Looking for internship"],
             "attributes" : {
                 "languages" : ["Norwegian", "French", "English"],
-                "coding" : [Python, GDScript, Javascript, HTML, CSS, ("Learning", C#)],
+                "coding" : [Python, GDScript, Javascript, HTML, CSS],
                 "interests" : ["gaming", "climbing", "parkour", "software/game developement"],
             }
         }
